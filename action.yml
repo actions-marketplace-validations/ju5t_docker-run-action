@@ -1,6 +1,6 @@
 # action.yml
 # This is a fork of addnab/docker-run-action as it appears to be abandoned.
-name: 'Docker Run'
+name: 'Run Docker Container'
 description: 'Run a command in a new container'
 inputs:
   image:
